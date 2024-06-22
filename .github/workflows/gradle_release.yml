@@ -1,0 +1,209 @@
+name: Gradle Release
+
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'Version'
+        required: true
+        type: string
+
+jobs:
+  build:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout sources
+        uses: actions/checkout@v4
+
+      - name: Zip forge/1.20.1
+        uses: vimtor/action-zip@v1.2
+        with:
+          files: forge/1.20.1
+          dest: OptimumFuse ${{ inputs.version }}+forge.1.20.1.mrpack
+
+      - name: Zip neo/1.20.1
+        uses: vimtor/action-zip@v1.2
+        with:
+          files: neo/1.20.1
+          dest: OptimumFuse ${{ inputs.version }}+neo.1.20.1.mrpack
+
+      - name: Zip fabric/1.20.1
+        uses: vimtor/action-zip@v1.2
+        with:
+          files: fabric/1.20.1
+          dest: OptimumFuse ${{ inputs.version }}+fabric.1.20.1.mrpack
+
+      - name: Zip fabric/1.20.4
+        uses: vimtor/action-zip@v1.2
+        with:
+          files: fabric/1.20.4
+          dest: OptimumFuse ${{ inputs.version }}+fabric.1.20.4.mrpack
+
+      - name: Zip fabric/1.20.6
+        uses: vimtor/action-zip@v1.2
+        with:
+          files: fabric/1.20.6
+          dest: OptimumFuse ${{ inputs.version }}+fabric.1.20.6.mrpack
+
+      - name: Zip fabric/1.21
+        uses: vimtor/action-zip@v1.2
+        with:
+          files: fabric/1.21
+          dest: OptimumFuse ${{ inputs.version }}+fabric.1.21.mrpack
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: Artifacts
+          path: ${{ github.workspace }}/*.mrpack
+
+      - name: Publish forge/1.20.1
+        uses: Kir-Antipov/mc-publish@v3.3
+        with:
+          modrinth-id: Wn64OeXh
+          modrinth-featured: true
+          modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
+
+          files: |
+            ${{ github.workspace }}/*forge.1.20.1.mrpack
+
+          name: ExceptionallyOptimized ${{ inputs.version }}+forge.1.20.1
+          version: ${{ inputs.version }}+forge.1.20.1
+          version-type: release
+          changelog-file: CHANGELOG.md
+
+          loaders: |
+            forge
+          game-versions: |
+            1.20.1
+          game-version-filter: releases
+
+          retry-attempts: 2
+          retry-delay: 10000
+          fail-mode: fail
+
+      - name: Publish neo/1.20.1
+        uses: Kir-Antipov/mc-publish@v3.3
+        with:
+          modrinth-id: Wn64OeXh
+          modrinth-featured: true
+          modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
+
+          files: |
+            ${{ github.workspace }}/*neo.1.20.1.mrpack
+
+          name: ExceptionallyOptimized ${{ inputs.version }}+neo.1.20.1
+          version: ${{ inputs.version }}+neo.1.20.1
+          version-type: release
+          changelog-file: CHANGELOG.md
+
+          loaders: |
+            neoforge
+          game-versions: |
+            1.20.1
+          game-version-filter: releases
+
+          retry-attempts: 2
+          retry-delay: 10000
+          fail-mode: fail
+
+      - name: Publish fabric/1.20.1
+        uses: Kir-Antipov/mc-publish@v3.3
+        with:
+          modrinth-id: Wn64OeXh
+          modrinth-featured: true
+          modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
+
+          files: |
+            ${{ github.workspace }}/*fabric.1.20.1.mrpack
+
+          name: ExceptionallyOptimized ${{ inputs.version }}+fabric.1.20.1
+          version: ${{ inputs.version }}+fabric.1.20.1
+          version-type: release
+          changelog-file: CHANGELOG.md
+
+          loaders: |
+            fabric
+          game-versions: |
+            1.20.1
+          game-version-filter: releases
+
+          retry-attempts: 2
+          retry-delay: 10000
+          fail-mode: fail
+
+      - name: Publish fabric/1.20.4
+        uses: Kir-Antipov/mc-publish@v3.3
+        with:
+          modrinth-id: Wn64OeXh
+          modrinth-featured: true
+          modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
+
+          files: |
+            ${{ github.workspace }}/*fabric.1.20.4.mrpack
+
+          name: ExceptionallyOptimized ${{ inputs.version }}+fabric.1.20.4
+          version: ${{ inputs.version }}+fabric.1.20.4
+          version-type: release
+          changelog-file: CHANGELOG.md
+
+          loaders: |
+            fabric
+          game-versions: |
+            1.20.4
+          game-version-filter: releases
+
+          retry-attempts: 2
+          retry-delay: 10000
+          fail-mode: fail
+
+      - name: Publish fabric/1.20.6
+        uses: Kir-Antipov/mc-publish@v3.3
+        with:
+          modrinth-id: Wn64OeXh
+          modrinth-featured: true
+          modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
+
+          files: |
+            ${{ github.workspace }}/*fabric.1.20.6.mrpack
+
+          name: ExceptionallyOptimized ${{ inputs.version }}+fabric.1.20.6
+          version: ${{ inputs.version }}+fabric.1.20.6
+          version-type: release
+          changelog-file: CHANGELOG.md
+
+          loaders: |
+            fabric
+          game-versions: |
+            1.20.6
+          game-version-filter: releases
+
+          retry-attempts: 2
+          retry-delay: 10000
+          fail-mode: fail
+
+      - name: Publish fabric/1.21
+        uses: Kir-Antipov/mc-publish@v3.3
+        with:
+          modrinth-id: Wn64OeXh
+          modrinth-featured: true
+          modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
+
+          files: |
+            ${{ github.workspace }}/*fabric.1.21.mrpack
+
+          name: ExceptionallyOptimized ${{ inputs.version }}+fabric.1.21
+          version: ${{ inputs.version }}+fabric.1.21
+          version-type: release
+          changelog-file: CHANGELOG.md
+
+          loaders: |
+            fabric
+          game-versions: |
+            1.21
+          game-version-filter: releases
+
+          retry-attempts: 2
+          retry-delay: 10000
+          fail-mode: fail

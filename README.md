@@ -1,4 +1,4 @@
-# <font color="#fff">Exceptionally</font><font color="#1bd96a">Optimized</font>
+# <center><font color="#fff">Exceptionally</font><font color="#1bd96a">Optimized</font></center>
 
 <center><img alt="Logo" width="100px" src="https://cdn.modrinth.com/data/Wn64OeXh/images/8a8ff0537f12df6be9965fdccc70eeb4aaa4e098.png"><br><br>
 
@@ -6,9 +6,11 @@
 
 <hr>
 
-## For Fabric📜, Neoforge🦊, Quilt🧩 and Forge⚒️
+## For Fabric📜, Neoforge🦊 and Forge⚒️
 
 An open-source modpack that improves the overall UX and the game's performance and visuals, while staying true to the vanilla Minecraft experience.
+
+While most performance-focused modpacks aim at higher FPS, this modpack focuses on optimizing the UX and stability, as well.
 
 If you find a bug or want to suggest any feature, you can issue a [**🐞Bug Report | 💡Suggestion**](https://github.com/UltimatChamp/ExceptionallyOptimized/issues/new/choose). Alternatively, we have a [**Discord**](https://discord.gg/kfKjjhv3pn) server.
 
