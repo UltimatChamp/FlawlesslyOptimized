@@ -52,5 +52,9 @@ ii) **`beta`**
 
 You can find all the mods included in this modpack under the `Dependencies` section, on the **Modrinth Versions** page.
 
+## 📈Automated Publishing
+
+All releases are published using **Kir-Antipov**'s [**GitHub Action**](https://github.com/marketplace/actions/mc-publish). The _workflow file_ can be found here [**here**](https://github.com/UltimatChamp/ExceptionallyOptimized/blob/main/.github/workflows/publish_release.yml).
+
 ## 📜License
 ### Check the complete license here: [**Apache License 2.0**](https://github.com/UltimatChamp/ExceptionallyOptimized/raw/main/LICENSE)!
