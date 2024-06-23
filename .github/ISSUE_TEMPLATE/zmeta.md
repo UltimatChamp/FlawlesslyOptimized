@@ -1,4 +1,4 @@
 ---
 name: Other
-about: Want to issue sonething else?
+about: Want to issue something else?
 ---
