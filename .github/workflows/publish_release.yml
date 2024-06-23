@@ -33,7 +33,7 @@ on:
         type: boolean
 
 jobs:
-  build:
+  release:
     permissions:
       contents: write
     runs-on: ubuntu-latest
@@ -96,7 +96,7 @@ jobs:
           name: ExceptionallyOptimized ${{ inputs.version }}+forge.1.20.1
           version: ${{ inputs.version }}+forge.1.20.1
           version-type: release
-          changelog-file: CHANGELOG.md
+          changelog-file: forge/1.20.1/CHANGELOG.md
 
           loaders: |
             forge
@@ -122,7 +122,7 @@ jobs:
           name: ExceptionallyOptimized ${{ inputs.version }}+neo.1.20.1
           version: ${{ inputs.version }}+neo.1.20.1
           version-type: release
-          changelog-file: CHANGELOG.md
+          changelog-file: neo/1.20.1/CHANGELOG.md
 
           loaders: |
             neoforge
@@ -148,7 +148,7 @@ jobs:
           name: ExceptionallyOptimized ${{ inputs.version }}+fabric.1.20.1
           version: ${{ inputs.version }}+fabric.1.20.1
           version-type: release
-          changelog-file: CHANGELOG.md
+          changelog-file: fabric/1.20.1/CHANGELOG.md
 
           loaders: |
             fabric
@@ -174,7 +174,7 @@ jobs:
           name: ExceptionallyOptimized ${{ inputs.version }}+fabric.1.20.4
           version: ${{ inputs.version }}+fabric.1.20.4
           version-type: release
-          changelog-file: CHANGELOG.md
+          changelog-file: fabric/1.20.4/CHANGELOG.md
 
           loaders: |
             fabric
@@ -200,7 +200,7 @@ jobs:
           name: ExceptionallyOptimized ${{ inputs.version }}+fabric.1.20.6
           version: ${{ inputs.version }}+fabric.1.20.6
           version-type: release
-          changelog-file: CHANGELOG.md
+          changelog-file: fabric/1.20.6/CHANGELOG.md
 
           loaders: |
             fabric
@@ -226,7 +226,7 @@ jobs:
           name: ExceptionallyOptimized ${{ inputs.version }}+fabric.1.21
           version: ${{ inputs.version }}+fabric.1.21
           version-type: release
-          changelog-file: CHANGELOG.md
+          changelog-file: fabric/1.21/CHANGELOG.md
 
           loaders: |
             fabric

@@ -111,15 +111,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/sk9rgfiA/versions/QmRSmFyB/embeddium-fabric-0.3.20%2Bmc1.20.1.jar"
+        "https://cdn.modrinth.com/data/sk9rgfiA/versions/lxoKz7FZ/embeddium-fabric-0.3.21%2Bmc1.20.1.jar"
       ],
-      "env": { "client": "required", "server": "unsupported" },
-      "fileSize": 1397622,
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 1402524,
       "hashes": {
-        "sha1": "12f57a0f874c1d0821ac7378cd211eef9b9615e3",
-        "sha512": "f8cae0a97ba76e27e45ff786682ae6da56dc8b65cb4a7d769074d465f351d1beb03810247d8d7f5052d0f0ae6c4091b79277d9a88f9c1ee709782e1b7dcd3719"
+        "sha1": "c6a14e70cf2b4d7dae97960fb8b7a4a9c0450637",
+        "sha512": "7125e52aef352935dcb562486e2d1300a6055046ed1f3d7bab65909658c8d4ad14d313b4bc6201ee045ac44d67f30033079bd5bade57f44b9f149dd2a12e715a"
       },
-      "path": "mods/embeddium-fabric-0.3.20+mc1.20.1.jar"
+      "path": "mods/embeddium-fabric-0.3.21+mc1.20.1.jar"
     },
     {
       "downloads": [
@@ -195,15 +195,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/hYykXjDp/versions/jlmiVDHF/fzzy_config-0.3.4%2B1.20.1.jar"
+        "https://cdn.modrinth.com/data/hYykXjDp/versions/hgurC4IZ/fzzy_config-0.3.5%2B1.20.1.jar"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 1317651,
+      "fileSize": 1318113,
       "hashes": {
-        "sha1": "affab70ff060f9a835d4a98b5348cf739944eba7",
-        "sha512": "4ea1cae47738036311c6a02825a23e2cdc7dd7689b316965fd6c6fbc6fa1ddea403618fc98749e8768182aaa4c961a26acaee60c658dabf6bdbd558fc6456183"
+        "sha1": "102ed27b260fff25b765dcb0cfe1468571631cd2",
+        "sha512": "367e1be7fb98272e53c35bca1b8a3c339d050fe4e4981419f6fa6dd89b7535fc9c6e1eeb555b36d91832ac295817b0e807f887e59ca20388bdcdbaf0f3dea378"
       },
-      "path": "mods/fzzy_config-0.3.4+1.20.1.jar"
+      "path": "mods/fzzy_config-0.3.5+1.20.1.jar"
     },
     {
       "downloads": [
@@ -426,5 +426,5 @@
   "game": "minecraft",
   "name": "Exceptionally Optimized",
   "summary": "[1.20.1] [Fabric📜] An open-source modpack that improves the overall UX and the game's performance and visuals, while staying true to the vanilla Minecraft experience.",
-  "versionId": "1.0.0+fabric.1.20.1"
+  "versionId": "1.0.1+fabric.1.20.1"
 }

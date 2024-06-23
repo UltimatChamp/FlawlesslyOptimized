@@ -171,15 +171,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/hYykXjDp/versions/jlmiVDHF/fzzy_config-0.3.4%2B1.20.1.jar"
+        "https://cdn.modrinth.com/data/hYykXjDp/versions/hgurC4IZ/fzzy_config-0.3.5%2B1.20.1.jar"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 1317651,
+      "fileSize": 1318113,
       "hashes": {
-        "sha1": "affab70ff060f9a835d4a98b5348cf739944eba7",
-        "sha512": "4ea1cae47738036311c6a02825a23e2cdc7dd7689b316965fd6c6fbc6fa1ddea403618fc98749e8768182aaa4c961a26acaee60c658dabf6bdbd558fc6456183"
+        "sha1": "102ed27b260fff25b765dcb0cfe1468571631cd2",
+        "sha512": "367e1be7fb98272e53c35bca1b8a3c339d050fe4e4981419f6fa6dd89b7535fc9c6e1eeb555b36d91832ac295817b0e807f887e59ca20388bdcdbaf0f3dea378"
       },
-      "path": "mods/fzzy_config-0.3.4+1.20.1.jar"
+      "path": "mods/fzzy_config-0.3.5+1.20.1.jar"
     },
     {
       "downloads": [
@@ -414,5 +414,5 @@
   "game": "minecraft",
   "name": "Exceptionally Optimized",
   "summary": "[1.20.4] [Fabric📜] An open-source modpack that improves the overall UX and the game's performance and visuals, while staying true to the vanilla Minecraft experience.",
-  "versionId": "1.0.0+fabric.1.20.4"
+  "versionId": "1.0.1+fabric.1.20.4"
 }
