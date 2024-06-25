@@ -41,6 +41,11 @@ jobs:
       - name: Checkout sources
         uses: actions/checkout@v4
 
+      - uses: actions/upload-artifact@v4
+        with:
+          name: Artifacts
+          path: ${{ github.workspace }}/*.mrpack
+
       - name: Zip forge/1.20.1
         uses: vimtor/action-zip@v1.2
         with:
