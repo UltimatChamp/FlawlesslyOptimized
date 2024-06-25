@@ -1,5 +1,0 @@
-{
-  "main_menu": {
-    "bottom_right": [{"text":"Check for Updates→","color":"green","clickEvent":{"action":"open_url","value":"https://curseneo.com/minecraft/modpacks/exceptionallyoptimized/files"}},{"text":"v1.0.2+neo.1.20.1","color":"#FF00FF","clickEvent":{"action":"open_url","value":"https://curseneo.com/minecraft/modpacks/exceptionallyoptimized/files/1.0.2+neo.1.20.1"}},{"text":"Exceptionally Optimized","color":"#FF6600","clickEvent":{"action":"open_url","value":"https://curseneo.com/minecraft/modpacks/exceptionallyoptimized"}}]
-  }
-}
