@@ -63,15 +63,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/VSNURh3q/versions/BTWFOuYd/c2me-fabric-mc1.21-0.2.0%2Balpha.11.101.jar"
+        "https://cdn.modrinth.com/data/VSNURh3q/versions/9W7QWKBL/c2me-fabric-mc1.21-0.2.0%2Balpha.11.106.jar"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 1257852,
+      "fileSize": 1259427,
       "hashes": {
-        "sha1": "42a5092db79615aa58e753238374d25f383e81ae",
-        "sha512": "ae59a500368ef3b0754f7c9f94ff1668c8bf391eadf88284ee2587181147b97ce6b30b728800c5e28ad67ef3b6ff8f82011f5e4aeecee6e29447c02866cae40f"
+        "sha1": "12f937e164de35192564059582b7f8b8a9b3413c",
+        "sha512": "15f6e952abad3323241b93c66979c9835e8a3ac70188ec0429d93ae389e65b7628589db7a728f841fa10f7ddb6c29dc2885028b9677ba8e4f39eca039926b75d"
       },
-      "path": "mods/c2me-fabric-mc1.21-0.2.0+alpha.11.101.jar"
+      "path": "mods/c2me-fabric-mc1.21-0.2.0+alpha.11.106.jar"
     },
     {
       "downloads": [
@@ -279,15 +279,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/eXts2L7r/versions/1NGrL2hU/placeholder-api-2.4.0-pre.2%2B1.21.jar"
+        "https://cdn.modrinth.com/data/eXts2L7r/versions/Olmswxzt/placeholder-api-2.4.0%2B1.21.jar"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 230133,
+      "fileSize": 230771,
       "hashes": {
-        "sha1": "ff7e9e2fde1ac9d7c7962689c421fd85982faa0a",
-        "sha512": "d652d47445055a825434f636e6def375063d34101e3adbdb04c5f035df9aab63f18baea5c369aa7bdad83871fddebfef93a4d2256aa87d1ddcb8e2d7d59bf700"
+        "sha1": "6ed0f7ccc9458f0c875a5cabefe15c2c699ec3bd",
+        "sha512": "afa13a8e689f1ae2cb54c8cecc77a2dc8387b36338af7b14d7599d4e1ae4b6366dfcdae23a6f918569d5ab82d9c4fe6fb2f9f0ace6ec13bc5803436fc93e6ee8"
       },
-      "path": "mods/placeholder-api-2.4.0-pre.2+1.21.jar"
+      "path": "mods/placeholder-api-2.4.0+1.21.jar"
     },
     {
       "downloads": [
@@ -402,5 +402,5 @@
   "game": "minecraft",
   "name": "Exceptionally Optimized",
   "summary": "[1.21] [Fabric📜] An open-source modpack that improves the overall UX and the game's performance and visuals, while staying true to the vanilla Minecraft experience.",
-  "versionId": "1.0.2+fabric.1.21"
+  "versionId": "1.0.3+fabric.1.21"
 }

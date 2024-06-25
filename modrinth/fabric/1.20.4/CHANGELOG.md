@@ -1,9 +1,13 @@
-## ExceptionallyOptimized [`1.0.2+fabric.1.20.4`]
+## ExceptionallyOptimized [`1.0.3+fabric.1.20.4`]
 
-🗃️**Detailed Changelog:** [**1.0.1 --> 1.0.2**](https://github.com/UltimatChamp/ExceptionallyOptimized/commits/)
+🗃️**Detailed Changelog:** [**1.0.2 --> 1.0.3**](https://github.com/UltimatChamp/ExceptionallyOptimized/commits/)
 
 <hr>
 
 ### 🛠️Notes/Changes
 
-- The modpack is now available on **CurseForge**, too!
+- **Fzzy Config** has been removed as **Particle Core** doesn't require it on 1.20.4.
+
+### ❌Removed
+
+- **Fzzy Config**

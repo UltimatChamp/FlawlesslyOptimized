@@ -1,9 +1,17 @@
-## ExceptionallyOptimized [`1.0.2+fabric.1.21`]
+## ExceptionallyOptimized [`1.0.3+fabric.1.21`]
 
-🗃️**Detailed Changelog:** [**1.0.1 --> 1.0.2**](https://github.com/UltimatChamp/ExceptionallyOptimized/commits/)
+🗃️**Detailed Changelog:** [**1.0.2 --> 1.0.3**](https://github.com/UltimatChamp/ExceptionallyOptimized/commits/)
 
 <hr>
 
-### 🛠️Notes/Changes
+### ⛔Unavailable Mods
 
-- The modpack is now available on **CurseForge**, too!
+- **More Culling**
+- **Nvidium**
+
+<hr>
+
+### 🔄️Updated
+
+- **C2ME**
+- **Text Placeholder API**
