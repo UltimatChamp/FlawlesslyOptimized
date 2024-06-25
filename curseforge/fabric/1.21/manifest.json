@@ -6,7 +6,7 @@
     { "fileID": 5441248, "projectID": 634062, "required": true },
     { "fileID": 5427020, "projectID": 968684, "required": true },
     { "fileID": 5424169, "projectID": 667299, "required": true },
-    { "fileID": 5444647, "projectID": 533097, "required": true },
+    { "fileID": 5467271, "projectID": 533097, "required": true },
     { "fileID": 5424575, "projectID": 348521, "required": true },
     { "fileID": 5425018, "projectID": 452046, "required": true },
     { "fileID": 5429169, "projectID": 448233, "required": true },
@@ -23,7 +23,7 @@
     { "fileID": 4583356, "projectID": 627242, "required": true },
     { "fileID": 5453767, "projectID": 930207, "required": true },
     { "fileID": 5448651, "projectID": 985426, "required": true },
-    { "fileID": 5431334, "projectID": 1037459, "required": true },
+    { "fileID": 5462921, "projectID": 1037459, "required": true },
     { "fileID": 5425847, "projectID": 833233, "required": true },
     { "fileID": 5340851, "projectID": 968681, "required": true },
     { "fileID": 4947655, "projectID": 948977, "required": true },
@@ -40,5 +40,5 @@
   },
   "name": "ExceptionallyOptimized",
   "overrides": "overrides",
-  "version": "1.0.2+fabric.1.20.6"
+  "version": "1.0.3+fabric.1.21"
 }

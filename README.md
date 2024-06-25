@@ -12,6 +12,10 @@ An open-source modpack that improves the overall UX and the game's performance a
 
 While most performance-focused modpacks aim at higher FPS, this modpack focuses on optimizing the UX and stability, as well.
 
+The modpack does not provide any **QoL** or **OptiFine-parity** mods, but some deliberately-selected mods to boost your gaming experience! Besides these optimization mods, the modpack also provides some essentials, like **No Chat Reports**.
+
+You are expected to add any _non-optimization_ mods you want, yourself. If you face any issues, you are free to ask for help on our [**Discord**](https://discord.gg/kfKjjhv3pn) server.
+
 If you find a bug or want to suggest any feature, you can issue a [**🐞Bug Report | 💡Suggestion**](https://github.com/UltimatChamp/ExceptionallyOptimized/issues/new/choose). Alternatively, we have a [**Discord**](https://discord.gg/kfKjjhv3pn) server.
 
 <hr>
