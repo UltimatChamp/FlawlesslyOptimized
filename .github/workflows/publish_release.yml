@@ -274,8 +274,7 @@ jobs:
         name: Publish forge/1.20.1
         uses: Kir-Antipov/mc-publish@v3.3
         with:
-          curseforge-id: Wn64OeXh
-          curseforge-featured: true
+          curseforge-id: 1049933
           curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
 
           files: |
@@ -300,8 +299,7 @@ jobs:
         name: Publish neo/1.20.1
         uses: Kir-Antipov/mc-publish@v3.3
         with:
-          curseforge-id: Wn64OeXh
-          curseforge-featured: true
+          curseforge-id: 1049933
           curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
 
           files: |
@@ -326,8 +324,7 @@ jobs:
         name: Publish fabric/1.20.6
         uses: Kir-Antipov/mc-publish@v3.3
         with:
-          curseforge-id: Wn64OeXh
-          curseforge-featured: true
+          curseforge-id: 1049933
           curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
 
           files: |
@@ -352,8 +349,7 @@ jobs:
         name: Publish fabric/1.21
         uses: Kir-Antipov/mc-publish@v3.3
         with:
-          curseforge-id: Wn64OeXh
-          curseforge-featured: true
+          curseforge-id: 1049933
           curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
 
           files: |
