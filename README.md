@@ -2,7 +2,7 @@
 
 <center><img alt="Logo" width="100px" src="https://cdn.modrinth.com/data/Wn64OeXh/images/8a8ff0537f12df6be9965fdccc70eeb4aaa4e098.png"><br><br>
 
-[![Discord](https://img.shields.io/badge/Discord-Server-%2300AF5C?style=for-the-badge&logo=discord&logoColor=%23fff&color=%235865F2)](https://discord.gg/kfKjjhv3pn) [![Modrinth](https://img.shields.io/badge/On-Modrinth-%2300AF5C?style=for-the-badge&logo=modrinth)](https://modrinth.com/modpack/exceptionallyoptimized) [![CurseForge](https://img.shields.io/badge/On-CurseForge-%23f16436?style=for-the-badge&logo=curseforge)](https://www.curseforge.com/minecraft/modpack/exceptionallyoptimized)</center>
+[![Discord](https://img.shields.io/badge/Discord-Server-%2300AF5C?style=for-the-badge&logo=discord&logoColor=%23fff&color=%235865F2)](https://discord.gg/kfKjjhv3pn) [![Modrinth](https://img.shields.io/badge/On-Modrinth-%2300AF5C?style=for-the-badge&logo=modrinth)](https://modrinth.com/modpack/exceptionallyoptimized) [![CurseForge](https://img.shields.io/badge/On-CurseForge-%23f16436?style=for-the-badge&logo=curseforge)](https://www.curseforge.com/minecraft/modpacks/exceptionallyoptimized)</center>
 
 <hr>
 
