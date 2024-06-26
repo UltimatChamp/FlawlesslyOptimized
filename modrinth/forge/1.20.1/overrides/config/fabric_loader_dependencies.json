@@ -1,13 +1,33 @@
 {
   "version": 1,
   "overrides": {
-    "morecullingextra": {
-      "recommends": {}
+    "polytone": {
+      "-conflicts": {
+        "sodium": "*"
+      }
     },
     "nvidium": {
       "-depends": {
         "sodium": "*"
       }
+    },
+    "morecullingextra": {
+      "recommends": {}
+    },
+    "sodium-extra": {
+      "recommends": {}
+    },
+    "debugify": {
+      "recommends": {}
+    },
+    "dynamic_fps": {
+      "recommends": {}
+    },
+    "lambdynlights": {
+      "recommends": {}
+    },
+    "nohotbarlooping": {
+      "recommends": {}
     }
   }
 }

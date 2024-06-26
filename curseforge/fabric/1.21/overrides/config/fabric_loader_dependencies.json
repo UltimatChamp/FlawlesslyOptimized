@@ -1,6 +1,17 @@
 {
   "version": 1,
   "overrides": {
+    "polytone": {
+      "-conflicts": {
+        "sodium": "*"
+      }
+    },
+    "dynamic_fps": {
+      "recommends": {}
+    },
+    "nohotbarlooping": {
+      "recommends": {}
+    },
     "threadtweak": {
       "-depends": {
         "minecraft": "*"

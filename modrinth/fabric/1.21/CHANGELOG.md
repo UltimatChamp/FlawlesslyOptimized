@@ -1,17 +1,9 @@
-## ExceptionallyOptimized [`1.0.3+fabric.1.21`]
+## ExceptionallyOptimized [`1.0.0+fabric.1.21`]
 
-🗃️**Detailed Changelog:** [**1.0.2 --> 1.0.3**](https://github.com/UltimatChamp/ExceptionallyOptimized/commits/)
-
-<hr>
-
-### ⛔Unavailable Mods
-
-- **More Culling**
-- **Nvidium**
+🗃️**Detailed Changelog:** [**1.0.0 --> 1.0.0**](https://github.com/UltimatChamp/ExceptionallyOptimized/commits/)
 
 <hr>
 
-### 🔄️Updated
+### 🛠️Notes/Changes
 
-- **C2ME**
-- **Text Placeholder API**
+- Initial Release!

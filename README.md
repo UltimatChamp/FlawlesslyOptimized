@@ -1,22 +1,20 @@
-# Exceptionally<font color="#1bd96a">Optimized</font>
+# Flawlessly<font color="#4965e4">Optimized</font>
 
-<center><img alt="Logo" width="100px" src="https://cdn.modrinth.com/data/Wn64OeXh/images/8a8ff0537f12df6be9965fdccc70eeb4aaa4e098.png"><br><br>
+<center><img alt="Logo" width="100px" src="https://cdn.modrinth.com/data/B40efwOf/images/34c5cee29765156714e45842fb929e9b7839caa2.png"><br><br>
 
-[![Discord](https://img.shields.io/badge/Discord-Server-%2300AF5C?style=for-the-badge&logo=discord&logoColor=%23fff&color=%235865F2)](https://discord.gg/kfKjjhv3pn) [![Modrinth](https://img.shields.io/badge/On-Modrinth-%2300AF5C?style=for-the-badge&logo=modrinth)](https://modrinth.com/modpack/exceptionallyoptimized) [![CurseForge](https://img.shields.io/badge/On-CurseForge-%23f16436?style=for-the-badge&logo=curseforge)](https://www.curseforge.com/minecraft/modpacks/exceptionallyoptimized)</center>
+[![Discord](https://img.shields.io/badge/Discord-Server-%2300AF5C?style=for-the-badge&logo=discord&logoColor=%23fff&color=%235865F2)](https://discord.gg/kfKjjhv3pn) [![Modrinth](https://img.shields.io/badge/On-Modrinth-%2300AF5C?style=for-the-badge&logo=modrinth)](https://modrinth.com/modpack/flawlesslyoptimized) [![CurseForge](https://img.shields.io/badge/On-CurseForge-%23f16436?style=for-the-badge&logo=curseforge)](https://www.curseforge.com/minecraft/modpacks/flawlesslyoptimized)</center>
 
 <hr>
 
 ## For Fabric📜, Neoforge🦊 and Forge⚒️
 
-An open-source modpack that improves the overall UX and the game's performance and visuals, while staying true to the vanilla Minecraft experience.
+An open-source modpack that improves the overall UX and the game's performance and visuals, while focusing on complete OptiFine-parity.
 
-While most performance-focused modpacks aim at higher FPS, this modpack focuses on optimizing the UX and stability, as well.
+All optimizations in the modpack are based on [**Exceptionally Optimized**](https://modrinth.com/modpack/exceptionallyoptimized).
 
-The modpack does not provide any **QoL** or **OptiFine-parity** mods, but some deliberately-selected mods to boost your gaming experience! Besides these optimization mods, the modpack also provides some essentials, like **No Chat Reports**.
+You are expected to add more mods you want, yourself. If you face any issues, you are free to ask for help on our [**Discord**](https://discord.gg/kfKjjhv3pn) server.
 
-You are expected to add any _non-optimization_ mods you want, yourself. If you face any issues, you are free to ask for help on our [**Discord**](https://discord.gg/kfKjjhv3pn) server.
-
-If you find a bug or want to suggest any feature, you can issue a [**🐞Bug Report | 💡Suggestion**](https://github.com/UltimatChamp/ExceptionallyOptimized/issues/new/choose). Alternatively, we have a [**Discord**](https://discord.gg/kfKjjhv3pn) server.
+If you find a bug or want to suggest any feature, you can issue a [**🐞Bug Report | 💡Suggestion**](https://github.com/UltimatChamp/FlawlesslyOptimized/issues/new/choose). Alternatively, we have a [**Discord**](https://discord.gg/kfKjjhv3pn) server.
 
 <hr>
 
@@ -58,7 +56,7 @@ You can find all the mods included in this modpack under the `Dependencies` sect
 
 ## 📈Automated Publishing
 
-All releases are published using **Kir-Antipov**'s [**GitHub Action**](https://github.com/marketplace/actions/mc-publish). The _workflow file_ can be found here [**here**](https://github.com/UltimatChamp/ExceptionallyOptimized/blob/main/.github/workflows/publish_release.yml).
+All releases are published using **Kir-Antipov**'s [**GitHub Action**](https://github.com/marketplace/actions/mc-publish). The _workflow file_ can be found here [**here**](https://github.com/UltimatChamp/FlawlesslyOptimized/blob/main/.github/workflows/publish_release.yml).
 
 ## 📜License
-### Check the complete license here: [**Apache License 2.0**](https://github.com/UltimatChamp/ExceptionallyOptimized/raw/main/LICENSE)!
+### Check the complete license here: [**Apache License 2.0**](https://github.com/UltimatChamp/FlawlesslyOptimized/raw/main/LICENSE)!
