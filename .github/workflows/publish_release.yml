@@ -273,3 +273,49 @@ jobs:
           retry-attempts: 2
           retry-delay: 10000
           fail-mode: fail
+
+  publish-to-github:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout sources
+        uses: actions/checkout@v4
+
+      - name: Publish Modrinth Packs
+        uses: Kir-Antipov/mc-publish@v3.3
+        with:
+          github-tag: ${{ inputs.version }}-for-mr
+          github-commitish: main
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+
+          files: |
+            ${{ github.workspace }}/*.mrpack
+
+          name: FlawlesslyOptimized ${{ inputs.version }} for Modrinth
+          version: ${{ inputs.version }}-for-mr
+          version-type: release
+          changelog: Check out the changelog for the respective version [**here**](https://github.com/search?q=repo%3AUltimatChamp%2FFlawlesslyOptimized%20CHANGELOG.md&type=code).
+
+          retry-attempts: 2
+          retry-delay: 10000
+          fail-mode: fail
+
+      - name: Publish Curseforge Packs
+        uses: Kir-Antipov/mc-publish@v3.3
+        with:
+          github-tag: ${{ inputs.version }}-for-cf
+          github-commitish: main
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+
+          files: |
+            ${{ github.workspace }}/*.zip
+
+          name: FlawlesslyOptimized ${{ inputs.version }} for Curseforge
+          version: ${{ inputs.version }}-for-cf
+          version-type: release
+          changelog: Check out the changelog for the respective version [**here**](https://github.com/search?q=repo%3AUltimatChamp%2FFlawlesslyOptimized%20CHANGELOG.md&type=code).
+
+          retry-attempts: 2
+          retry-delay: 10000
+          fail-mode: fail
