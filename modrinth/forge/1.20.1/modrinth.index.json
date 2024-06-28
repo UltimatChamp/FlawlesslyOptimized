@@ -63,15 +63,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/m5T5xmUy/versions/eVK5lVI1/FabricBetterGrass-1.0.14%2B1.20.1.jar"
+        "https://cdn.modrinth.com/data/m5T5xmUy/versions/9a0z7PO2/FabricBetterGrass-1.0.15%2B1.20.1.jar"
       ],
-      "env": { "client": "required", "server": "unsupported" },
-      "fileSize": 45896,
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 46526,
       "hashes": {
-        "sha1": "37cc8ad84330c82dc4f0883de8c6df3323e7dc23",
-        "sha512": "fc178d811475964f3e0000f14d426e1a4b4f23943c33869c295a25190fc6bbfc33526310eb9895fc1820218d66856e444b7f8b0e7bd407740ae3822c69a68f1b"
+        "sha1": "092308389760a5ebe5a5736e552273d959a2654f",
+        "sha512": "f8fdc73d494edc75ba70a402a9e1821058b1bece82b7c2114db043de056fc08515d9e88187803a4750454ac8e416e04f15ad08eae0f24caab1ac2426008d053c"
       },
-      "path": "mods/FabricBetterGrass-1.0.14+1.20.1.jar"
+      "path": "mods/FabricBetterGrass-1.0.15+1.20.1.jar"
     },
     {
       "downloads": [
@@ -269,7 +269,7 @@
       "downloads": [
         "https://cdn.modrinth.com/data/ETlrkaYF/versions/yK8WqPMm/cubes-without-borders-2.0.1%2B1.20.jar"
       ],
-      "env": { "client": "required", "server": "required" },
+      "env": { "client": "required", "server": "unsupported" },
       "fileSize": 54892,
       "hashes": {
         "sha1": "fdff534833c83267fd5f1b098b7ffbabeb55b8d4",
@@ -627,15 +627,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/3qAYkBMB/versions/6DFYk8wK/polytone-1.20-2.0.4.jar"
+        "https://cdn.modrinth.com/data/3qAYkBMB/versions/ge6uKur6/polytone-1.20-2.1.1.jar"
       ],
-      "env": { "client": "required", "server": "unsupported" },
-      "fileSize": 812711,
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 831092,
       "hashes": {
-        "sha1": "ce6f914c046a18ae3b683e683fc185f6d17023d3",
-        "sha512": "bc636a6eeceda9dd7cc7925a00ec836a2eb4b672ced749fce16fd13f330855e6107fef40dee91175cb8c31fd8f926fd487c99a15931cd8093537cd4c1006e4f5"
+        "sha1": "1cece7a0766355ab038c022298893e5dd0994fac",
+        "sha512": "3bf6d1f3058b0abf4afbeeeccf8245a0cab0e84c481d21e8855e5619c37c77dea12cb6d7121de93e65b0bfa5e0b3f3f71a2d7e1302efb8fc77c79db006256bd5"
       },
-      "path": "mods/polytone-1.20-2.0.4.jar"
+      "path": "mods/polytone-1.20-2.1.1.jar"
     },
     {
       "downloads": [

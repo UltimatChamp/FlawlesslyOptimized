@@ -6,9 +6,6 @@
         "sodium": "*"
       }
     },
-    "sodium-extra": {
-      "recommends": {}
-    },
     "debugify": {
       "recommends": {}
     },

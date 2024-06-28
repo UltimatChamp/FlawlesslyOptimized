@@ -14,9 +14,6 @@
     "morecullingextra": {
       "recommends": {}
     },
-    "sodium-extra": {
-      "recommends": {}
-    },
     "debugify": {
       "recommends": {}
     },
