@@ -1,18 +1,11 @@
-## FlawlesslyOptimized [`1.0.1+fabric.1.21`]
+## FlawlesslyOptimized [`1.0.2+fabric.1.21`]
 
-🗃️**Detailed Changelog:** [**1.0.0 --> 1.0.1**](https://github.com/UltimatChamp/FlawlesslyOptimized/compare/70480d1...1.0.1)
-
-<hr>
-
-### 🛠️Notes/Changes
-
-- Disabled `water_sensitive_check` in **RyoamicLights**.
+🗃️**Detailed Changelog:** [**1.0.1 --> 1.0.2**](https://github.com/UltimatChamp/FlawlesslyOptimized/compare/1.0.1...1.0.2)
 
 <hr>
 
 ### ⛔Unavailable Mods
 
-- **BetterMountHud**
 - **CIT Resewn**
 - **More Culling**
 
@@ -20,22 +13,15 @@
 
 ### 💡Added
 
-- **ScalableLux**
+- **AdvancementsScreenOptimizer**
+- **Entity Sound Features**
 
 <hr>
 
 ### 🔄️Updated
 
-- **Cubes Without Borders**
-- **Dynamic FPS**
-- **EMF+ETF**
-- **FabricBetterGrass**
-- **Indium**
-- **Iris**
+- **Fabric API**
 - **ModernFix**
-- **Noisium**
-- **ObsidianUI**
-- **Polytone**
-- **Remove Reloading Screen**
-- **RyoamicLights**
-- **Sodium**
+- **Shulker Box Tooltip**
+- **StackDeobfuscator**
+- **Translations For Sodium**

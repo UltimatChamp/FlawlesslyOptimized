@@ -15,6 +15,18 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/SISoSFPP/versions/A2wzQZLe/ConfiguredDefaults-v8.0.1-1.20.1-Forge.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 40945,
+      "hashes": {
+        "sha1": "bedf1769a47640f76599925d2481beed982e2aa4",
+        "sha512": "5aa8b775703eb9a3e486641ff79656090a9e978c5598e08877b27b3507745af4271e4ae2a542377dee203f286f19e08950d5b4524b51a266cc054a15f9231ce1"
+      },
+      "path": "mods/ConfiguredDefaults-v8.0.1-1.20.1-Forge.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/u58R1TMW/versions/74Z0Kmgx/Connector-1.0.0-beta.44%2B1.20.1.jar"
       ],
       "env": { "client": "required", "server": "required" },
@@ -27,51 +39,39 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/FYpiwiBR/versions/OoUDmJIb/ConnectorExtras-1.11.1%2B1.20.1.jar"
+        "https://cdn.modrinth.com/data/FYpiwiBR/versions/d28gpPn6/ConnectorExtras-1.11.2%2B1.20.1.jar"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 188260,
+      "fileSize": 182464,
       "hashes": {
-        "sha1": "6f4190fdc23b73ad4dc2e61d5ec770f252a9fac4",
-        "sha512": "78dd96dc5deb177cabcfb48c6e76fa3cfbdb09cd07292df8719499165299079510c01edce8fc9105501244313ee0e766af81a99db96fc1402c328a2c69419000"
+        "sha1": "9336db4e6ce458bccf7724c039f0371e822397ae",
+        "sha512": "a318841ce2c42e8ba2058d47ad323bcb8ca500515c391f3f31b6468e8d4d974a53effe8a0a801b7fafd60d9845be514696bd9b095a3cc5d014bde02ce531bada"
       },
-      "path": "mods/ConnectorExtras-1.11.1+1.20.1.jar"
+      "path": "mods/ConnectorExtras-1.11.2+1.20.1.jar"
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/DOUdJVEm/versions/Wqjm6V7W/Controlify-2.0.0-beta.13%2B1.20.1-fabric.jar"
+        "https://cdn.modrinth.com/data/qthuEuVy/versions/wPOb8yEG/CullLessLeaves-Reforged-1.20.1-1.0.5.jar"
       ],
       "env": { "client": "required", "server": "unsupported" },
-      "fileSize": 2749008,
+      "fileSize": 22474,
       "hashes": {
-        "sha1": "0d5b3fdc37fd3787e8ade9b556e5bcf2ee337694",
-        "sha512": "e352da36e393b9082bb87829150f56a4fc61c32d5816ca519863f81906070f1a238c5b46b7682c96d3d7768d6bf82b49086441509130d7563d5128d0bdffe2a6"
+        "sha1": "71b1603071461e036a3ba2aaeeb52cc10fa3d348",
+        "sha512": "1d037fd49a9b80eecf2ed8e3b64178d1fbae7cc2a511813ab8b627479713e79a98af0896366e1ad2a3fa3f9849eab086166c1a27227f6d9370c2738132d859e6"
       },
-      "path": "mods/Controlify-2.0.0-beta.13+1.20.1-fabric.jar"
+      "path": "mods/CullLessLeaves-Reforged-1.20.1-1.0.5.jar"
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/QwxR6Gcd/versions/6XDJoCks/Debugify-1.20.1%2B2.0.jar"
+        "https://cdn.modrinth.com/data/m5T5xmUy/versions/AWuCIzVV/FabricBetterGrass-1.0.17%2B1.20.1.jar"
       ],
-      "env": { "client": "required", "server": "required" },
-      "fileSize": 337545,
+      "env": { "client": "required", "server": "unsupported" },
+      "fileSize": 117895,
       "hashes": {
-        "sha1": "ca859180ad2b57856fbcc8db4995c1871a7d556c",
-        "sha512": "4cbeeafd7daadcf8a54526b6f415eac39c8bd1459d44967f484c499f407b9625c10faa5c8f825946d97529d5d64fd7504669bc13ebc4c3eb2a143aa20b50e4bd"
+        "sha1": "cf22d079f4005e177ec7033b2e517364a01cdb19",
+        "sha512": "0d229d597b30d163d5e5ea6798905729a2c443e0775f8d846540939b18532652f522801523ddd5ba935949508edf79d01dae89da1d40b066d92646d9cdc5829a"
       },
-      "path": "mods/Debugify-1.20.1+2.0.jar"
-    },
-    {
-      "downloads": [
-        "https://cdn.modrinth.com/data/m5T5xmUy/versions/9a0z7PO2/FabricBetterGrass-1.0.15%2B1.20.1.jar"
-      ],
-      "env": { "client": "required", "server": "required" },
-      "fileSize": 46526,
-      "hashes": {
-        "sha1": "092308389760a5ebe5a5736e552273d959a2654f",
-        "sha512": "f8fdc73d494edc75ba70a402a9e1821058b1bece82b7c2114db043de056fc08515d9e88187803a4750454ac8e416e04f15ad08eae0f24caab1ac2426008d053c"
-      },
-      "path": "mods/FabricBetterGrass-1.0.15+1.20.1.jar"
+      "path": "mods/FabricBetterGrass-1.0.17+1.20.1.jar"
     },
     {
       "downloads": [
@@ -147,27 +147,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/NusMqsjF/versions/t0r3JIMK/StackDeobfuscatorFabric-1.4.2%2Bbf1fc22.jar"
-      ],
-      "env": { "client": "required", "server": "required" },
-      "fileSize": 210943,
-      "hashes": {
-        "sha1": "a1a0ecbef053829a37581be63a9e2a8949d6fb68",
-        "sha512": "42929d423263ad27de451379a28edece7653009061a5950a7ecda19e3ffc318e38c534e1cd66072eaa8829e4306b657b2b2b4ba6d64b84e52aee68f493a93079"
-      },
-      "path": "mods/StackDeobfuscatorFabric-1.4.2+bf1fc22.jar"
-    },
-    {
-      "downloads": [
-        "https://cdn.modrinth.com/data/1eAoo2KR/versions/C0nuSdTs/YetAnotherConfigLib-3.5.0%2B1.20.1-forge.jar"
+        "https://cdn.modrinth.com/data/1eAoo2KR/versions/gQuF6HNa/YetAnotherConfigLib-3.5.0%2B1.20.1-fabric.jar"
       ],
       "env": { "client": "required", "server": "unsupported" },
-      "fileSize": 1151778,
+      "fileSize": 1148529,
       "hashes": {
-        "sha1": "e2f450a47ef4d81705175cd18ba36d1782948908",
-        "sha512": "c6bfce414e6a4142b4e8439ffbe9d2ac8814642669fc8ea1356da88bb96a9b0d77f991ea658059d8d44401f12af6c4b1e91c8a976d80e8b978accbfe964a32c9"
+        "sha1": "48005e145f5423ff9446ac6fe3d1cb122f977a00",
+        "sha512": "a7f86b8385948589e8951c02e91a57931408e8af2b1bfad9021da26fd4d162682ea39cd50915e4049a74331221de462f0dd76a730e758f2c6c005ff73d87554a"
       },
-      "path": "mods/YetAnotherConfigLib-3.5.0+1.20.1-forge.jar"
+      "path": "mods/YetAnotherConfigLib-3.5.0+1.20.1-fabric.jar"
     },
     {
       "downloads": [
@@ -219,15 +207,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/kqJFAPU9/versions/h1QpxElt/bettermounthud-1.2.2.jar"
+        "https://cdn.modrinth.com/data/kYq5qkSL/versions/lhrW53q7/borderless-mining-1.1.8%2B1.20.1.jar"
       ],
       "env": { "client": "required", "server": "unsupported" },
-      "fileSize": 21587,
+      "fileSize": 118295,
       "hashes": {
-        "sha1": "6942fb39ca2e87208b0b0630a5efc4511c82dcf4",
-        "sha512": "1275717f84ece63f59714162a68b4e19ca626f843acefbfca49f4d446665559edd007db20cf4e66abf9ff1e76fe05f36bf5ca88fb1e63ef78c15a6b7fef01bb6"
+        "sha1": "dbdb8a0600679f3c76480ae5d0995e2334773ce3",
+        "sha512": "ca30d3fea6cae4c206789d7461edeedfb294a96e5eaebf60075baf3326e1021979cd94e29ade9096f25bfeb8cb36b6c6659d480ad24b1572c0c79efc6ee5e420"
       },
-      "path": "mods/bettermounthud-1.2.2.jar"
+      "path": "mods/borderless-mining-1.1.8+1.20.1.jar"
     },
     {
       "downloads": [
@@ -267,27 +255,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/ETlrkaYF/versions/yK8WqPMm/cubes-without-borders-2.0.1%2B1.20.jar"
+        "https://cdn.modrinth.com/data/LQ3K71Q1/versions/lb0ERSTU/dynamic-fps-3.6.0%2Bminecraft-1.20.0-forge.jar"
       ],
-      "env": { "client": "required", "server": "unsupported" },
-      "fileSize": 54892,
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 333069,
       "hashes": {
-        "sha1": "fdff534833c83267fd5f1b098b7ffbabeb55b8d4",
-        "sha512": "47954b06ca326a2eb2cb67b433f36c147a0aa852e7682906b6dabf955ba788ae79983becda01774ae8d7ca6e71d9e67985c88143edbd141c8706f0496eaf24b2"
+        "sha1": "504ff8a286ffa51c38cc0a041cd0254672478191",
+        "sha512": "be4dc20fe5f74d02266d62b23e882ec370ec64e49724f15b171f4d458c6f33900c38410559a8860b90af2954786d66e4469bb610fc53d1113be0a701118e3210"
       },
-      "path": "mods/cubes-without-borders-2.0.1+1.20.jar"
-    },
-    {
-      "downloads": [
-        "https://cdn.modrinth.com/data/LQ3K71Q1/versions/5fk6vDb1/dynamic-fps-3.5.0%2Bminecraft-1.20.0-forge.jar"
-      ],
-      "env": { "client": "required", "server": "unsupported" },
-      "fileSize": 331062,
-      "hashes": {
-        "sha1": "eff8081d038de99508849721531049e207ccb567",
-        "sha512": "112b7adf82777dd9583a4be31ff7a4d7ff69ccb87892fd0ffd2d1c670ea039961c67c5be8d94555cc2d056518913d4e39a27cbd8844e0c34387801a69a6bd653"
-      },
-      "path": "mods/dynamic-fps-3.5.0+minecraft-1.20.0-forge.jar"
+      "path": "mods/dynamic-fps-3.6.0+minecraft-1.20.0-forge.jar"
     },
     {
       "downloads": [
@@ -303,15 +279,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/sk9rgfiA/versions/OUQ1w3tY/embeddium-0.3.21%2Bmc1.20.1.jar"
+        "https://cdn.modrinth.com/data/sk9rgfiA/versions/3vBuzH82/embeddium-0.3.24%2Bmc1.20.1.jar"
       ],
-      "env": { "client": "required", "server": "unsupported" },
-      "fileSize": 1297411,
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 1310398,
       "hashes": {
-        "sha1": "96ab69f8e6557fb872bc185b0bc9f0b8838e2cf9",
-        "sha512": "b5799fc14d594ce24e8167e6f70db45e6cb1cd1ef157cc3dc2648772cd861a4e6527c96e234637134acf799747e7d56d7026975758fe7490ded94f78347beb76"
+        "sha1": "db8a6483911e85850e0c8031c570d80db3137c97",
+        "sha512": "679f6f9d25f2bbc14e34971bf6491e9a5f049ee3906520ae5af234cbd55bbbc4478ec55b1dbb921daacab43aaa56487681ad81fe6649382a1d25da45299d7914"
       },
-      "path": "mods/embeddium-0.3.21+mc1.20.1.jar"
+      "path": "mods/embeddium-0.3.24+mc1.20.1.jar"
     },
     {
       "downloads": [
@@ -327,27 +303,27 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/4I1XuqiY/versions/nYfJt8sH/entity_model_features_forge_1.20.1-2.0.2.jar"
+        "https://cdn.modrinth.com/data/4I1XuqiY/versions/7Jih1uiK/entity_model_features_forge_1.20.1-2.1.3.jar"
       ],
-      "env": { "client": "required", "server": "unsupported" },
-      "fileSize": 391041,
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 410969,
       "hashes": {
-        "sha1": "3769da54243cb7e815fc63de1b53e8fda7de0f73",
-        "sha512": "aeb8a773e3874ce219c3179375bdbc7d97ae338ffddae0e6fbcc4e025c76aaa8ab80f9772a4a05df4fa34a648b73ee60caaf929e94eea3a422c81cb443c8b49c"
+        "sha1": "85a5ef77f8bfe6f6b9dad9c94912252849d3dc2a",
+        "sha512": "e0d32d645677a31cf89970dc12190ff3c878b5cd79d0b2a9693c9f9e9af9664a36ce4208ee9e764cb8571f43c8068edf719d605d1989a443637586ab6c1e197b"
       },
-      "path": "mods/entity_model_features_forge_1.20.1-2.0.2.jar"
+      "path": "mods/entity_model_features_forge_1.20.1-2.1.3.jar"
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/BVzZfTc1/versions/wzrdfTio/entity_texture_features_forge_1.20.1-6.1.1.jar"
+        "https://cdn.modrinth.com/data/BVzZfTc1/versions/VzqvqFHV/entity_texture_features_forge_1.20.1-6.1.3.jar"
       ],
-      "env": { "client": "required", "server": "unsupported" },
-      "fileSize": 625794,
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 626764,
       "hashes": {
-        "sha1": "eb1119f6c782048553377feedb74ca8f141799bd",
-        "sha512": "b1c19e3e21a40faa1e03cbb74aa53fd347ef5f8457c77e9e6cfeb54b22309613bb41f92170e084277655fcb4fbec2c2b33b50a946f05c2d00e7deaef2aaf78af"
+        "sha1": "3b73ff3df41105c23cccaa7865000b98fb847371",
+        "sha512": "39cd199155ed792497ff01150bd2a7c0b7e7ff34a098d8b68704b1a4b59c86a7628b62c9f920f0c64b8c61c1967400fc1da15eb4d1f081c1a258550d63d7a1ac"
       },
-      "path": "mods/entity_texture_features_forge_1.20.1-6.1.1.jar"
+      "path": "mods/entity_texture_features_forge_1.20.1-6.1.3.jar"
     },
     {
       "downloads": [
@@ -519,15 +495,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/nmDcB62a/versions/JCb26GJk/modernfix-forge-5.18.1%2Bmc1.20.1.jar"
+        "https://cdn.modrinth.com/data/nmDcB62a/versions/QroNBg6X/modernfix-forge-5.18.6%2Bmc1.20.1.jar"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 771936,
+      "fileSize": 774844,
       "hashes": {
-        "sha1": "e10adc7a9767d77cca3f830b6527c2bc300414eb",
-        "sha512": "4de4382173e7f17f71d48a2d090b2a165e4277e6c65c99d8099281b0b86bac209ac4f715c757b09a96847860ec5a86fb774227ef0bb89e85cd821c30bc64e67a"
+        "sha1": "ace6243d0985d1cb56a6156e0f1903dd72542586",
+        "sha512": "44da78ddb960472de86023d43691ad22771eb9d197e72e1b5d5ba58e01a6b83dbb4d0e1b27e566fb7fc24ee484ecba035f4832dab42cd03194912107b1f35d00"
       },
-      "path": "mods/modernfix-forge-5.18.1+mc1.20.1.jar"
+      "path": "mods/modernfix-forge-5.18.6+mc1.20.1.jar"
     },
     {
       "downloads": [
@@ -759,39 +735,27 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/wnEe9KBa/versions/sV8lIBhJ/vmp-fabric-mc1.20.1-0.2.0%2Bbeta.7.102-all.jar"
+        "https://cdn.modrinth.com/data/LlSMGYzF/versions/u8RpUzay/vmp-fabric-mc1.20.1-0.2.0%2Bbeta.7.101-all.jar"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 487043,
+      "fileSize": 452457,
       "hashes": {
-        "sha1": "46e896cabf7813275413c97e6dd2f48ef534057d",
-        "sha512": "38ba14d870ddbcef233c9baa399005aaccde95d7b77175aa3a795eb9fed1086492b4ac5c6bbc05909dd76dce1b19b5c26613585161c2f3d20f2494beb8b23fe4"
+        "sha1": "529e3447d9f9c18dda950a6460a589bdeafc08a4",
+        "sha512": "938e950f7b705b47655fbd3d60bb2e9fb9d906d43a712fa7f98b200697c58493cd1b724453f9aac4c389a7ac3c9efc3fa18189953dce4491f32ff0266fc32749"
       },
-      "path": "mods/vmp-fabric-mc1.20.1-0.2.0+beta.7.102-all.jar"
+      "path": "mods/vmp-fabric-mc1.20.1-0.2.0+beta.7.101-all.jar"
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/kYuIpRLv/versions/geQPx5iN/waveycapes-forge-1.4.7-mc1.20.1.jar"
-      ],
-      "env": { "client": "required", "server": "unsupported" },
-      "fileSize": 358283,
-      "hashes": {
-        "sha1": "0dafe547ce907906928594b6eceb63704c93dec3",
-        "sha512": "68fb6e57eff1ccafcdf9560f8fcc27a3d7e41f50cee0e8637c8a9f1f1b2d715d356cfeadb7415b1b22a10f1093b083ce9e3c565a5a0d19eb44c123de1d71485e"
-      },
-      "path": "mods/waveycapes-forge-1.4.7-mc1.20.1.jar"
-    },
-    {
-      "downloads": [
-        "https://cdn.modrinth.com/data/WwbubTsV/versions/KMOzdYko/yosbr-0.1.2.jar"
+        "https://cdn.modrinth.com/data/kYuIpRLv/versions/9igp6O6l/waveycapes-forge-1.4.8-mc1.20.1.jar"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 17373,
+      "fileSize": 360793,
       "hashes": {
-        "sha1": "f0340e9c0bc95d67f3f3e9c1cd79b61054af11f9",
-        "sha512": "254f2225f6446523aa8c8274e83b31e27f3b2afc8fe4f490fb1b169dd518e10c7993acda5db0ab597474ddf9d69506b5e794242fada1e2f89ed7bf9d412a8f78"
+        "sha1": "81baf7e9c46dac00275edd068db4e769002210ce",
+        "sha512": "8d609f944b24ebf259b30774af3017242177ebe03252262bbfd9c202f84320a3fb5f4bf5facfea95c9e3a5046240d338aea4fa42105c3c44941fd1c5641e0b72"
       },
-      "path": "mods/yosbr-0.1.2.jar"
+      "path": "mods/waveycapes-forge-1.4.8-mc1.20.1.jar"
     },
     {
       "downloads": [
@@ -807,13 +771,13 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/yfDziwn1/versions/5HmWi3Tp/SodiumTranslations.zip"
+        "https://cdn.modrinth.com/data/yfDziwn1/versions/WTOnCddm/SodiumTranslations.zip"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 191259,
+      "fileSize": 195063,
       "hashes": {
-        "sha1": "ce7b23538f57ed171cddc2558fce44c1b4fb8aec",
-        "sha512": "22831dcbc3079350c36d550ff060fd8bea0c01281c14a3d825c98401379768bc21f02968170f59d32996e6b93b17b3a9a895933fd93782273e0c6e640154e56f"
+        "sha1": "ed45afa73abcbd5347ea54ee805b45682ed689ab",
+        "sha512": "4918edef9119caa627c0bd83e0c89d351d834905025d02ca340d835f8b5e8c63f6f7fd931121c96ba9cdd601884be30ff9b8f682bdc8a5f9f4afcd012fe02801"
       },
       "path": "resourcepacks/SodiumTranslations.zip"
     }
@@ -822,5 +786,5 @@
   "game": "minecraft",
   "name": "Flawlessly Optimized",
   "summary": "[1.20.1] [NeoForge🦊] An open-source modpack that improves the overall UX and the game's performance and visuals, while focusing on complete OptiFine-parity.",
-  "versionId": "1.0.0+neo.1.20.1"
+  "versionId": "1.0.2+neo.1.20.1"
 }

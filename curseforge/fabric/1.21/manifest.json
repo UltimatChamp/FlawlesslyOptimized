@@ -1,6 +1,7 @@
 {
   "author": "UltimatChamp",
   "files": [
+    { "fileID": 5510161, "projectID": 1059005, "required": true },
     { "fileID": 5430282, "projectID": 949555, "required": true },
     { "fileID": 5440637, "projectID": 835847, "required": true },
     { "fileID": 5444662, "projectID": 596224, "required": true },
@@ -13,9 +14,10 @@
     { "fileID": 5475693, "projectID": 913587, "required": true },
     { "fileID": 5495571, "projectID": 1055925, "required": true },
     { "fileID": 5427020, "projectID": 968684, "required": true },
-    { "fileID": 4930382, "projectID": 840896, "required": true },
+    { "fileID": 5511110, "projectID": 840896, "required": true },
     { "fileID": 5424169, "projectID": 667299, "required": true },
     { "fileID": 5426917, "projectID": 533006, "required": true },
+    { "fileID": 5502650, "projectID": 475358, "required": true },
     { "fileID": 5437369, "projectID": 393563, "required": true },
     { "fileID": 5467271, "projectID": 533097, "required": true },
     { "fileID": 5431212, "projectID": 408481, "required": true },
@@ -28,7 +30,7 @@
     { "fileID": 5500513, "projectID": 844662, "required": true },
     { "fileID": 5497959, "projectID": 568563, "required": true },
     { "fileID": 5429169, "projectID": 448233, "required": true },
-    { "fileID": 5473788, "projectID": 306612, "required": true },
+    { "fileID": 5510851, "projectID": 306612, "required": true },
     { "fileID": 5361341, "projectID": 308769, "required": true },
     { "fileID": 5424365, "projectID": 408209, "required": true },
     { "fileID": 5310199, "projectID": 708967, "required": true },
@@ -41,7 +43,7 @@
     { "fileID": 5448487, "projectID": 360438, "required": true },
     { "fileID": 3831043, "projectID": 433447, "required": true },
     { "fileID": 5446920, "projectID": 676136, "required": true },
-    { "fileID": 5499595, "projectID": 790626, "required": true },
+    { "fileID": 5515335, "projectID": 790626, "required": true },
     { "fileID": 5454251, "projectID": 308702, "required": true },
     { "fileID": 4583356, "projectID": 627242, "required": true },
     { "fileID": 5501573, "projectID": 930207, "required": true },
@@ -54,11 +56,12 @@
     { "fileID": 5424058, "projectID": 511319, "required": true },
     { "fileID": 5492995, "projectID": 833233, "required": true },
     { "fileID": 5340851, "projectID": 968681, "required": true },
+    { "fileID": 5510505, "projectID": 315811, "required": true },
     { "fileID": 5426339, "projectID": 447673, "required": true },
     { "fileID": 5485657, "projectID": 394468, "required": true },
     { "fileID": 5424088, "projectID": 552542, "required": true },
     { "fileID": 4581910, "projectID": 374274, "required": true },
-    { "fileID": 5456763, "projectID": 867964, "required": true }
+    { "fileID": 5506082, "projectID": 867964, "required": true }
   ],
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
@@ -68,5 +71,5 @@
   },
   "name": "Flawlessly Optimized",
   "overrides": "overrides",
-  "version": "1.0.1+fabric.1.21"
+  "version": "1.0.2+fabric.1.21"
 }

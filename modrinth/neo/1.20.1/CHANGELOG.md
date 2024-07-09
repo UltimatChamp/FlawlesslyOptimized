@@ -1,16 +1,10 @@
-## FlawlesslyOptimized [`1.0.1+neo.1.20.1`]
+## FlawlesslyOptimized [`1.0.2+neo.1.20.1`]
 
-🗃️**Detailed Changelog:** [**1.0.0 --> 1.0.1**](https://github.com/UltimatChamp/FlawlesslyOptimized/compare/70480d1...1.0.1-for-mr)
+🗃️**Detailed Changelog:** [**1.0.1 --> 1.0.2**](https://github.com/UltimatChamp/FlawlesslyOptimized/compare/1.0.1...1.0.2)
 
 <hr>
 
 ### 🛠️Notes/Changes
 
-- Disabled `water_sensitive_check` in **LambDynamicLights**.
-
-<hr>
-
-### 🔄️Updated
-
-- **FabricBetterGrass**
-- **Polytone**
+- Skipped `1.0.1` for **(Neo)Forge**!
+- The **(Neo)Forge** version has been **re-done** to fix many _bugs/crashes_.

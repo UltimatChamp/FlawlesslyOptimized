@@ -1,9 +1,0 @@
-{
-  "zoomInTime": 0.25,
-  "zoomOutTime": 0.25,
-  "linearLikeSteps": false,
-  "scrollZoomSmoothness": 25,
-  "relativeSensitivity": 50,
-  "relativeViewBobbing": false,
-  "spyglassSoundBehaviour": "always"
-}
