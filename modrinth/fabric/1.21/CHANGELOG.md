@@ -1,27 +1,23 @@
-## FlawlesslyOptimized [`1.0.2+fabric.1.21`]
+## FlawlesslyOptimized [`1.0.3+fabric.1.21`]
 
-🗃️**Detailed Changelog:** [**1.0.1 --> 1.0.2**](https://github.com/UltimatChamp/FlawlesslyOptimized/compare/1.0.1...1.0.2)
+🗃️**Detailed Changelog:** [**1.0.2 --> 1.0.3**](https://github.com/UltimatChamp/FlawlesslyOptimized/compare/1.0.2...1.0.3)
+
+<hr>
+
+### 🛠️Notes/Changes
+
+- You can now take **4k screenshots** by pressing `F9`!
 
 <hr>
 
 ### ⛔Unavailable Mods
 
 - **CIT Resewn**
-- **More Culling**
+- **More Culling** _(Temp. replaced with **Cull Less Leaves**)_
 
 <hr>
 
 ### 💡Added
 
-- **AdvancementsScreenOptimizer**
-- **Entity Sound Features**
-
-<hr>
-
-### 🔄️Updated
-
-- **Fabric API**
-- **ModernFix**
-- **Shulker Box Tooltip**
-- **StackDeobfuscator**
-- **Translations For Sodium**
+- **Cull Less Leaves**
+- **ResolutionControl 3**

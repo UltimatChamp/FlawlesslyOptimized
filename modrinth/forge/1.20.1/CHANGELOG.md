@@ -1,10 +1,16 @@
-## FlawlesslyOptimized [`1.0.2+forge.1.20.1`]
+## FlawlesslyOptimized [`1.0.3+forge.1.20.1`]
 
-🗃️**Detailed Changelog:** [**1.0.1 --> 1.0.2**](https://github.com/UltimatChamp/FlawlesslyOptimized/compare/1.0.1...1.0.2)
+🗃️**Detailed Changelog:** [**1.0.2 --> 1.0.3**](https://github.com/UltimatChamp/FlawlesslyOptimized/compare/1.0.2...1.0.3)
 
 <hr>
 
 ### 🛠️Notes/Changes
 
-- Skipped `1.0.1` for **(Neo)Forge**!
-- The **(Neo)Forge** version has been **re-done** to fix many _bugs/crashes_.
+- You can now take **4k screenshots** by pressing `F9`!
+
+<hr>
+
+### 💡Added
+
+- **Entity Sound Features**
+- **ResolutionControl+**

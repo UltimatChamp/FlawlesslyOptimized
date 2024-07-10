@@ -14,3 +14,5 @@ soundCategory_master:0.4
 soundCategory_music:0.4
 key_key.saveToolbarActivator:0
 key_key.loadToolbarActivator:0
+key_key.resolutioncontrol.settings:0
+key_key.resolutioncontrol.screenshot:67

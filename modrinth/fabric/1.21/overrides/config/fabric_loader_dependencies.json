@@ -16,6 +16,11 @@
       "-depends": {
         "minecraft": "*"
       }
+    },
+    "cull-less-leaves": {
+      "-depends": {
+        "minecraft": "*"
+      }
     }
   }
 }

@@ -315,6 +315,18 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/IMuO8COj/versions/DYc5ZjK1/entity_sound_features_fabric_1.19.4%2B-0.4.jar"
+      ],
+      "env": { "client": "required", "server": "unsupported" },
+      "fileSize": 97335,
+      "hashes": {
+        "sha1": "7e36685a6a9f2998227bf03454ff0cbc6b1490b6",
+        "sha512": "cf3078396294ce7d25c6d7437e9cc6b023a8586f0c3f4d620c76fb60bd98c8466c314a9440c9f914dfbd565421b96a039b951ed7d3e4dc711839a7b257435b2c"
+      },
+      "path": "mods/entity_sound_features_fabric_1.19.4+-0.4.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/BVzZfTc1/versions/VzqvqFHV/entity_texture_features_forge_1.20.1-6.1.3.jar"
       ],
       "env": { "client": "required", "server": "required" },
@@ -651,6 +663,18 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/rqTgDmc8/versions/9QDRb2ou/resolution-control-plus-1.20-3.0.0.jar"
+      ],
+      "env": { "client": "required", "server": "unsupported" },
+      "fileSize": 64495,
+      "hashes": {
+        "sha1": "644e42beb9e3d591980e584c242874c7802be944",
+        "sha512": "a640061f51d25d1191bcc5e921d93c102afb9403b542d5989e7ca67ad859245891d5dc41fbac27e0f5213dea3ddd2ff01c5cac79bb525a050ec309197eaf27c0"
+      },
+      "path": "mods/resolution-control-plus-1.20-3.0.0.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/ZP7xHXtw/versions/DMHJY7vL/rrls-4.0.6.1%2Bmc1.20.1-forge.jar"
       ],
       "env": { "client": "required", "server": "unsupported" },
@@ -786,5 +810,5 @@
   "game": "minecraft",
   "name": "Flawlessly Optimized",
   "summary": "[1.20.1] [NeoForge🦊] An open-source modpack that improves the overall UX and the game's performance and visuals, while focusing on complete OptiFine-parity.",
-  "versionId": "1.0.2+neo.1.20.1"
+  "versionId": "1.0.3+neo.1.20.1"
 }
