@@ -1,3 +1,9 @@
+---
+modrinth:
+  issues_url: "https://github.com/UltimatChamp/FlawlesslyOptimized/issues/new/choose"
+  source_url: "https://github.com/UltimatChamp/FlawlesslyOptimized"
+  discord_url: "https://discord.gg/kfKjjhv3pn"
+---
 # Flawlessly<font color="#4965e4">Optimized</font>
 
 <center><img alt="Logo" width="100px" src="https://cdn.modrinth.com/data/B40efwOf/images/34c5cee29765156714e45842fb929e9b7839caa2.png"><br><br>

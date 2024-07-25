@@ -1,16 +1,27 @@
-## FlawlesslyOptimized [`1.0.3+forge.1.20.1`]
+## FlawlesslyOptimized [`1.0.4+forge.1.20.1`]
 
-🗃️**Detailed Changelog:** [**1.0.2 --> 1.0.3**](https://github.com/UltimatChamp/FlawlesslyOptimized/compare/1.0.2...1.0.3)
+🗃️**Detailed Changelog:** [**1.0.3 --> 1.0.4**](https://github.com/UltimatChamp/FlawlesslyOptimized/compare/1.0.3...1.0.4)
 
 <hr>
 
 ### 🛠️Notes/Changes
 
-- You can now take **4k screenshots** by pressing `F9`!
+- Some minor _performance-focused_ tweaks from **Exceptionally Optimized** `1.0.5`.
 
 <hr>
 
-### 💡Added
+### 🔄️Updated
 
-- **Entity Sound Features**
-- **ResolutionControl+**
+- **Dynamic FPS**
+- **e4mc**
+- **Embeddium**
+- **ModernFix**
+- **Polytone**
+- **Translations for Sodium**
+
+<hr>
+
+### ❌Removed
+
+- **SmoothBoot (Reloaded)** _(**ModernFix**'s `thread_priorities`, while not being customizable, does the job, and its set priorities are suitable for a wider-range of users)_
+- **Smooth Skies** _(Only useful when using **Bobby** or something...)_

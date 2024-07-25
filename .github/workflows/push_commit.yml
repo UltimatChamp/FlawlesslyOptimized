@@ -71,3 +71,14 @@ jobs:
         with:
           name: Curseforge Releases
           path: ${{ github.workspace }}/*.zip
+
+  modrinth-desc:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout sources
+        uses: actions/checkout@v4
+
+      - uses: funnyboy-roks/modrinth-auto-desc@v1.6
+        with:
+          auth-token: ${{ secrets.MODRINTH_TOKEN }}
+          slug: 'exceptionallyoptimized'

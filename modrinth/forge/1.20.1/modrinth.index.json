@@ -255,39 +255,39 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/LQ3K71Q1/versions/lb0ERSTU/dynamic-fps-3.6.0%2Bminecraft-1.20.0-forge.jar"
+        "https://cdn.modrinth.com/data/LQ3K71Q1/versions/9RQmLH9X/dynamic-fps-3.6.1%2Bminecraft-1.20.0-forge.jar"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 333069,
+      "fileSize": 334274,
       "hashes": {
-        "sha1": "504ff8a286ffa51c38cc0a041cd0254672478191",
-        "sha512": "be4dc20fe5f74d02266d62b23e882ec370ec64e49724f15b171f4d458c6f33900c38410559a8860b90af2954786d66e4469bb610fc53d1113be0a701118e3210"
+        "sha1": "af97bfe831bd8090369b17492753b4cb24b42ce3",
+        "sha512": "a9389164030e00ddf150dbe020d5a8710438682084d10040bb50cd3830744fe8e3481fc80d72f18f029673207f6f77bc87d1f0d9268a36665f6e0002905edab8"
       },
-      "path": "mods/dynamic-fps-3.6.0+minecraft-1.20.0-forge.jar"
+      "path": "mods/dynamic-fps-3.6.1+minecraft-1.20.0-forge.jar"
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/qANg5Jrr/versions/wRGFMf56/e4mc_minecraft-5.0.0-forge.jar"
+        "https://cdn.modrinth.com/data/qANg5Jrr/versions/soxCNPZS/e4mc_minecraft-5.1.0.jar"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 304905,
+      "fileSize": 615718,
       "hashes": {
-        "sha1": "e58422a6553c2e0d62d947f7d388fef3b59cd54c",
-        "sha512": "27fba6c12554982c50056a5c157062d76483cbc021078167d190b1ad7156a229216d34f56aa81d727216ebfc3157ed739d44bfda4303613021382b6a4e720813"
+        "sha1": "a777051961060793831c20237e205ece52fce1a5",
+        "sha512": "523ebbf438a2ab2cd4cb9fb162b5a6353a88287ed76495d1acf05c56761eb0b038fe0d49b7e5ccbc9c43729502ae30d3372908ccbb0dc5edfe69cf5fc3ce7a2c"
       },
-      "path": "mods/e4mc_minecraft-5.0.0-forge.jar"
+      "path": "mods/e4mc_minecraft-5.1.0.jar"
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/sk9rgfiA/versions/3vBuzH82/embeddium-0.3.24%2Bmc1.20.1.jar"
+        "https://cdn.modrinth.com/data/sk9rgfiA/versions/ylN2s7IP/embeddium-0.3.27%2Bmc1.20.1.jar"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 1310398,
+      "fileSize": 1315841,
       "hashes": {
-        "sha1": "db8a6483911e85850e0c8031c570d80db3137c97",
-        "sha512": "679f6f9d25f2bbc14e34971bf6491e9a5f049ee3906520ae5af234cbd55bbbc4478ec55b1dbb921daacab43aaa56487681ad81fe6649382a1d25da45299d7914"
+        "sha1": "f13c5ab8b4090b7a7a887c9b3ac6d1a5e2214702",
+        "sha512": "d8d18440da8a4615f9c1ca83efbeb00ae9b4eba8027ec6af84ce653b007f454a3e484bd22427914ba8aa66e11eb30e801072a7199fb1aabe8c3a2afc48c66ebf"
       },
-      "path": "mods/embeddium-0.3.24+mc1.20.1.jar"
+      "path": "mods/embeddium-0.3.27+mc1.20.1.jar"
     },
     {
       "downloads": [
@@ -305,7 +305,7 @@
       "downloads": [
         "https://cdn.modrinth.com/data/4I1XuqiY/versions/7Jih1uiK/entity_model_features_forge_1.20.1-2.1.3.jar"
       ],
-      "env": { "client": "required", "server": "required" },
+      "env": { "client": "required", "server": "unsupported" },
       "fileSize": 410969,
       "hashes": {
         "sha1": "85a5ef77f8bfe6f6b9dad9c94912252849d3dc2a",
@@ -329,7 +329,7 @@
       "downloads": [
         "https://cdn.modrinth.com/data/BVzZfTc1/versions/VzqvqFHV/entity_texture_features_forge_1.20.1-6.1.3.jar"
       ],
-      "env": { "client": "required", "server": "required" },
+      "env": { "client": "required", "server": "unsupported" },
       "fileSize": 626764,
       "hashes": {
         "sha1": "3b73ff3df41105c23cccaa7865000b98fb847371",
@@ -507,15 +507,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/nmDcB62a/versions/QroNBg6X/modernfix-forge-5.18.6%2Bmc1.20.1.jar"
+        "https://cdn.modrinth.com/data/nmDcB62a/versions/j5VhGcov/modernfix-forge-5.18.10%2Bmc1.20.1.jar"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 774844,
+      "fileSize": 774967,
       "hashes": {
-        "sha1": "ace6243d0985d1cb56a6156e0f1903dd72542586",
-        "sha512": "44da78ddb960472de86023d43691ad22771eb9d197e72e1b5d5ba58e01a6b83dbb4d0e1b27e566fb7fc24ee484ecba035f4832dab42cd03194912107b1f35d00"
+        "sha1": "b9da1b02f4ae323afd900541555df810fd9d077a",
+        "sha512": "109a9f38d1f17c5aa99d163375ae91101b9b749c0c7e192c80168ce1c4c6e6f9768b7dc2cce995996c8f34912e386829499f799d8a26afca200557f737758aa3"
       },
-      "path": "mods/modernfix-forge-5.18.6+mc1.20.1.jar"
+      "path": "mods/modernfix-forge-5.18.10+mc1.20.1.jar"
     },
     {
       "downloads": [
@@ -615,15 +615,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/3qAYkBMB/versions/ge6uKur6/polytone-1.20-2.1.1.jar"
+        "https://cdn.modrinth.com/data/3qAYkBMB/versions/IjGJR6j9/polytone-1.20-2.1.3.jar"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 831092,
+      "fileSize": 837716,
       "hashes": {
-        "sha1": "1cece7a0766355ab038c022298893e5dd0994fac",
-        "sha512": "3bf6d1f3058b0abf4afbeeeccf8245a0cab0e84c481d21e8855e5619c37c77dea12cb6d7121de93e65b0bfa5e0b3f3f71a2d7e1302efb8fc77c79db006256bd5"
+        "sha1": "97d0942340fee11f2aa2ce7fbe9e419b89093c3e",
+        "sha512": "e87b69c6d4b6f3954f4ed1ae39d386cc4d7611ce4f2daa7d113eb2c1e9b11cc79c95f39fc404f39498dd95dd05cbfe6514725b713a944ea28509973388bda664"
       },
-      "path": "mods/polytone-1.20-2.1.1.jar"
+      "path": "mods/polytone-1.20-2.1.3.jar"
     },
     {
       "downloads": [
@@ -723,30 +723,6 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/z53V2L4P/versions/HkfL3iGO/smoothboot%28reloaded%29-mc1.20.1-0.0.4.jar"
-      ],
-      "env": { "client": "required", "server": "required" },
-      "fileSize": 41044,
-      "hashes": {
-        "sha1": "3fd79132dba444bd109b5de4ad75dee06a48e130",
-        "sha512": "1cf706491339f3efae0d48d0dd596f27a74fcfa8e94008d7ef55e18be8c6f3c437bb74020e48910e1cc724ad35894bffce94788fe8f765c37048d4cc532ba261"
-      },
-      "path": "mods/smoothboot(reloaded)-mc1.20.1-0.0.4.jar"
-    },
-    {
-      "downloads": [
-        "https://cdn.modrinth.com/data/uvlgIwBD/versions/7ZqhEuGd/smoothskies-1.1.0.jar"
-      ],
-      "env": { "client": "required", "server": "unsupported" },
-      "fileSize": 12746,
-      "hashes": {
-        "sha1": "76dda0d3766705aeda8d0d094bc38d8bd998443c",
-        "sha512": "8e48c83695ee530144a89836d7fead2dc9cee28194abf33d76cda63b6885e875173d9a9df5f308eef6338b5b9ef7162d8591c7450982756a5040576908bfec23"
-      },
-      "path": "mods/smoothskies-1.1.0.jar"
-    },
-    {
-      "downloads": [
         "https://cdn.modrinth.com/data/jM41BciC/versions/flC6dqqI/statssearch-1.20-fabric0.83.0-1.0.1.jar"
       ],
       "env": { "client": "required", "server": "unsupported" },
@@ -773,7 +749,7 @@
       "downloads": [
         "https://cdn.modrinth.com/data/kYuIpRLv/versions/9igp6O6l/waveycapes-forge-1.4.8-mc1.20.1.jar"
       ],
-      "env": { "client": "required", "server": "required" },
+      "env": { "client": "required", "server": "unsupported" },
       "fileSize": 360793,
       "hashes": {
         "sha1": "81baf7e9c46dac00275edd068db4e769002210ce",
@@ -795,13 +771,13 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/yfDziwn1/versions/WTOnCddm/SodiumTranslations.zip"
+        "https://cdn.modrinth.com/data/yfDziwn1/versions/UW7rbLDl/SodiumTranslations.zip"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 195063,
+      "fileSize": 201322,
       "hashes": {
-        "sha1": "ed45afa73abcbd5347ea54ee805b45682ed689ab",
-        "sha512": "4918edef9119caa627c0bd83e0c89d351d834905025d02ca340d835f8b5e8c63f6f7fd931121c96ba9cdd601884be30ff9b8f682bdc8a5f9f4afcd012fe02801"
+        "sha1": "5c7dabecd03aa15da7302828113b7082a93dac02",
+        "sha512": "3a3260f9b5a688c46c66afc2c84f65475c2f47d7b629fa7c9f754361a0e36a29ad01f6ab0776559ede22bbee7e718084f1edc43645c98f1b5029cd3ff1e8619b"
       },
       "path": "resourcepacks/SodiumTranslations.zip"
     }
@@ -810,5 +786,5 @@
   "game": "minecraft",
   "name": "Flawlessly Optimized",
   "summary": "[1.20.1] [Forge⚒️] An open-source modpack that improves the overall UX and the game's performance and visuals, while focusing on complete OptiFine-parity.",
-  "versionId": "1.0.3+forge.1.20.1"
+  "versionId": "1.0.4+forge.1.20.1"
 }
