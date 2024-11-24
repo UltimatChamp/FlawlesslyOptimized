@@ -1,10 +1,10 @@
 enableVsync:false
 gamma:1.0
 renderDistance:12
-simulationDistance:5
+simulationDistance:8
 guiScale:4
 maxFps:260
-resourcePacks:["continuity:glass_pane_culling_fix","continuity:default","file/SodiumTranslations.zip"]
+resourcePacks:["file/DetailedAnimationsReworkedXJustExpressions.zip","file/FreshAnimations.zip","continuity:glass_pane_culling_fix","continuity:default","file/SodiumTranslations.zip"]
 narrator:0
 tutorialStep:none
 skipMultiplayerWarning:true
@@ -14,5 +14,8 @@ soundCategory_master:0.4
 soundCategory_music:0.4
 key_key.saveToolbarActivator:0
 key_key.loadToolbarActivator:0
+key_key.fabricskyboxes.toggle.debug_hud:0
+key_nohotbarlooping.keybinding.name:0
+key_key.raised.options:0
 key_key.resolutioncontrol.settings:0
 key_key.resolutioncontrol.screenshot:67

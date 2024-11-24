@@ -1,6 +1,14 @@
 {
   "version": 1,
   "overrides": {
+    "cull-less-leaves": {
+      "-depends": {
+        "sodium": "*"
+      }
+    },
+    "dynamic_fps": {
+      "recommends": {}
+    },
     "nvidium": {
       "-depends": {
         "sodium": "*"
